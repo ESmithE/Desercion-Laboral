@@ -16,7 +16,7 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 # Explora Notebook
 [Hackathon HackerEarth.py](https://colab.research.google.com/drive/1kF8XY-KkEZgBLTfvyl-Ft0pJModdrJdl?usp=sharing)
 
-#Tech Stack
+# Tech Stack
 - Python (refer to requirement.txt for the packages used in this project)
 - Streamlit (interface for the model)
 - AWS S3 (model storage)
