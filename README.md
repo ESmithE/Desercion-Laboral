@@ -9,14 +9,11 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 # Métodos
 - Exploratory data analysis
 - Bivariate analysis
-- Multivariate correlation
-- S3 bucket model hosting
-- Model deployment
 
 # Explora Notebook (Google Colab)
 [Hackathon HackerEarth.py](https://colab.research.google.com/drive/1kF8XY-KkEZgBLTfvyl-Ft0pJModdrJdl?usp=sharing)
 
-#Tech Stack
+# Tech Stack
 - Python (refer to requirement.txt for the packages used in this project)
 - Power Bi (visualizaciones)
 
@@ -24,7 +21,6 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 ¿Cuál es el genero con más deserción laboral?
 ¿Cuál es el promedio de años trabajados de las personas que abandonan su empleo?
 ¿Cuál es su estado civil?
-¿Cuál es su posicion geografica ?
 ¿Cuál es el area con más abandono?
 .
 .
