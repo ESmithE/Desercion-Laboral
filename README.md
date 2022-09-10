@@ -34,6 +34,8 @@ Puntos a analizar:
 
 # Vistaso rápido a los resultados
 Correlación entre Mujeres y Hombres de la misma empresa:
+![Graficas_por_genero](https://user-images.githubusercontent.com/111365430/189495509-033dd473-e9fc-4503-a92f-6efc0d9bf376.jpg)
+
 
 >Pie Chart
 
