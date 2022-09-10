@@ -13,13 +13,12 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 - S3 bucket model hosting
 - Model deployment
 
-# Explora Notebook
+# Explora Notebook (Google Colab)
 [Hackathon HackerEarth.py](https://colab.research.google.com/drive/1kF8XY-KkEZgBLTfvyl-Ft0pJModdrJdl?usp=sharing)
 
-# Tech Stack
+#Tech Stack
 - Python (refer to requirement.txt for the packages used in this project)
-- Streamlit (interface for the model)
-- AWS S3 (model storage)
+- Power Bi (visualizaciones)
 
 # Análisis
 ¿Cuál es el genero con más deserción laboral?
@@ -39,5 +38,14 @@ Puntos a analizar:
 
 # Vistaso rápido a los resultados
 Correlación entre Mujeres y Hombres de la misma empresa:
-GRAFICA
+
+>Pie Chart
+
+
+
+>Column Chart
+
+
+> Scatter Chart
+
 
