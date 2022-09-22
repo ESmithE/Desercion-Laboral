@@ -1,5 +1,20 @@
 # Deserción Laboral--Análisis
-El fenómeno que actualmente impacta a las empresas y organizaciones 
+El fenómeno que actualmente impacta a las empresas y organizaciones.
+Múltiples estudios realizados por empresas y consultoras indican que en México 
+aproximadamente 7 de cada 10 empleados cambiará de trabajo en el corto o mediano plazo 
+por diversas razones, lo que convierte a México en el país con más deserción laboral de 
+América Latina. Aunque estos estudios han identificado distintos factores por los que los 
+empleados dejan las empresas, no se han podido establecer las causas contundentes que 
+determinan el abandono.  
+Lo anterior no es un problema exclusivo de nuestro país. Esta tendencia mundial ha 
+desencadenado el análisis de ciertos datos de los empleados para intentar determinar factores 
+concluyentes que permitan pronosticar la tasa de deserción en un momento específico, y que 
+de este modo las empresas puedan prepararse para lidiar con estas pérdidas. 
+Estos análisis pueden realizarse con técnicas de ciencia de datos. Para ello, es necesario 
+identificar las fuentes de información u orígenes de datos, hacer una selección para filtrar la 
+información relevante y almacenar los resultados para su procesamiento posterior en las fases 
+de aprendizaje automático. 
+
 # Problemática
 Las jornadas laborales demasiado extensas en países de América Latina como México, Costa Rica y Chile crean estragos en la salud de los trabajadores y hacen aumentar el número de ausencias laborales.
 La deserción laboral actualmente afecta a las empresas y organizaciones.
