@@ -1,4 +1,4 @@
-# Deserción Laboral--Análisis
+# Deserción Laboral
 El fenómeno que actualmente impacta a las empresas y organizaciones.
 Múltiples estudios realizados por empresas y consultoras indican que en México 
 aproximadamente 7 de cada 10 empleados cambiará de trabajo en el corto o mediano plazo 
@@ -26,7 +26,7 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 - Bivariate analysis
 
 # Explora Notebooks (Google Colab / DeepNote)
-[Exploración De Datos_Employes.ipynb](https://colab.research.google.com/drive/1z0VtcEY55VBb6GfFtZ3Xnk8TcmE8UAjr#scrollTo=O9z8CsvE0O2K)
+[Exploración De Datos - Google Colab](https://colab.research.google.com/drive/1z0VtcEY55VBb6GfFtZ3Xnk8TcmE8UAjr?usp=sharing)
 
 # Tech Stack
 - Python (Analisis y visualización)
