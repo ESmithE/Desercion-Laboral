@@ -25,21 +25,21 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 - Exploratory data analysis
 - Bivariate analysis
 
-# Explora Notebook (Google Colab)
-[Hackathon HackerEarth.py](https://colab.research.google.com/drive/1kF8XY-KkEZgBLTfvyl-Ft0pJModdrJdl?usp=sharing)
+# Explora Notebooks (Google Colab / DeepNote)
+[Exploración De Datos_Employes.ipynb](https://colab.research.google.com/drive/1z0VtcEY55VBb6GfFtZ3Xnk8TcmE8UAjr#scrollTo=O9z8CsvE0O2K)
 
 # Tech Stack
-- Python (refer to requirement.txt for the packages used in this project)
+- Python (Analisis y visualización)
 - Power Bi (visualizaciones)
 
 # Análisis
-¿Cuál es el genero con más deserción laboral?
-¿Cuál es el promedio de años trabajados de las personas que abandonan su empleo?
-¿Cuál es su estado civil?
-¿Cuál es el area con más abandono?
-.
-.
-.
+- Tiempo de servicio promedio
+- Porcentaje de Hombres y Mujeres
+- Tiempos máximos sin promoción
+- Edad promedio de ingreso
+- Registros de mujeres solteras con compesaciones tipo 2 y 3
+- Promociones antes de los 30 años
+
 Puntos a analizar:
 - Estado civil
 - Tiempo de promoción
