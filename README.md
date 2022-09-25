@@ -27,6 +27,7 @@ Archivo de información:   [Employees.csv](https://github.com/ESmithE/Deserci-n-
 
 # Explora Notebooks (Google Colab / DeepNote)
 [Exploración De Datos - Google Colab](https://colab.research.google.com/drive/1z0VtcEY55VBb6GfFtZ3Xnk8TcmE8UAjr?usp=sharing)
+[Ingesta y Visualización - DeepNote](https://deepnote.com/workspace/esmithe-6179-00a5df71-fb48-44a8-ba43-4410de40e4ac/project/Untitled-project-1a5a8ee3-54e2-420c-8025-867c5ef60f65)
 
 # Tech Stack
 - Python (Analisis y visualización)
